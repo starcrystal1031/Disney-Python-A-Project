@@ -1,1 +1,3 @@
-Our code thus far has managed to yeild graphs of Disneys stock performance sense the 70s. We have been unable to lable the X axis effectivly, as it is based on days sense it opened, which makes it very non readable
+#Our code thus far has managed to yeild graphs of Disneys stock performance sense the 70s. 
+#We have been unable to lable the X axis effectivly, as it is based on days sense it opened, which makes it very non readable
+#Overall, we have lots of work to do over the weekend, but I am pleased to report we are making progress
